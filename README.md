@@ -1,5 +1,3 @@
-To create an HTML version of your nonprofit proposal, you can use the following template:
-
 ```html
 <!DOCTYPE html>
 <html lang="en">
@@ -44,7 +42,4 @@ To create an HTML version of your nonprofit proposal, you can use the following 
   <h2>Conclusion</h2>
   <p>Building Resilience seeks to create a sustainable, inclusive, and prepared community that can withstand and flourish in the face of disasters. By integrating disaster support, ecological sustainability, economic stability, education, and wellness, we will foster resilience while preserving our natural environment. Together, we can build a stronger, more connected community that thrives even in the most challenging times.</p>
 </body>
-</html>
-```
-
-You can save the above code in a file with a `.html` extension (e.g., `proposal.html`) and open it in a web browser to view the formatted proposal. Feel free to modify the HTML structure, styling, and content as needed to suit your preferences.
+</html
